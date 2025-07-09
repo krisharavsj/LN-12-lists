@@ -1,0 +1,9 @@
+empty_list=[]
+print(empty_list)
+number_list=[1,2,3,4,5]
+print(number_list)
+list=[12,34,56,78,90]*3
+print(list)
+list_2=[100,200,300,400]
+list_2=list_2[::-1]
+print(list_2)
